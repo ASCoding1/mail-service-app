@@ -1,0 +1,6 @@
+com\example\librarymailservice\listener\RabbitMqListener.class
+com\example\librarymailservice\LibraryMailServiceApplication.class
+com\example\librarymailservice\model\MailInfoRabbit$MailInfoRabbitBuilder.class
+com\example\librarymailservice\configuration\RabbitMqConfig.class
+com\example\librarymailservice\service\MailService.class
+com\example\librarymailservice\model\MailInfoRabbit.class
