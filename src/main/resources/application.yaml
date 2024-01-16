@@ -1,0 +1,18 @@
+spring:
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: asobolewskitest97@gmail.com
+    password: xxxxxxx
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls.enable: true
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+server:
+  port: 8082
